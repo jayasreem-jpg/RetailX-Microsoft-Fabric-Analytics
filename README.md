@@ -150,10 +150,9 @@ A **star-schema-based semantic model** was created for analytical reporting.
 The relationships between fact and dimension tables enable efficient filtering, slicing, and aggregation across the report.
 
 ---
+## 📷 Dashboard Preview
 
-## 📈 Power BI Dashboard
-
-The Power BI dashboard provides an interactive view of retail performance.
+![RetailX Sales Analytics Dashboard](retailx-dashboard.png)
 
 ### 💰 Key KPIs
 

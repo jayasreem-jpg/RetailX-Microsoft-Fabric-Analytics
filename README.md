@@ -61,6 +61,7 @@ The objective of RetailX is to build a scalable retail analytics solution that p
                   ▼
           📊 Power BI Dashboard
 ```
+![RetailX Microsoft Fabric Architecture](retailx-architecture.png)
 
 ---
 
